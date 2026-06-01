@@ -141,7 +141,7 @@ Bangalore-House-Price-Prediction/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Bangalore-House-Price-Prediction.git
+git clone https://github.com/Venket-7/Bangalore-House-Price-Prediction.git
 ```
 
 ### Install Dependencies
